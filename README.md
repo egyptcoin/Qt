@@ -1,0 +1,4 @@
+Qt
+==
+
+Windows Qt Wallet
